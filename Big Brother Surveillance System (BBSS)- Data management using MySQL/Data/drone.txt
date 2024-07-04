@@ -1,0 +1,120 @@
+id	droneModel
+1	Kespry 2S
+2	Easy Aerial SAMS
+3	MQ-9 Reaper
+4	DJI Mavic 3T
+5	Easy Aerial SAMS
+6	Kespry 2S
+7	Autel Robotics Dual 640T V3
+8	MQ-9 Reaper
+9	Autel Robotics Dual 640T V3
+10	Easy Aerial SAMS
+11	DJI M30T
+12	Autel Robotics Dual 640T V3
+13	Kespry 2S
+14	Easy Aerial SAMS
+15	MQ-9 Reaper
+16	Easy Aerial SAMS
+17	DJI Mavic 3T
+18	Easy Aerial SAMS
+19	Autel Robotics Dual 640T V3
+20	Kespry 2S
+21	Autel Robotics Dual 640T V3
+22	Kespry 2S
+23	Autel Robotics Dual 640T V3
+24	DJI Mavic 3T
+25	Kespry 2S
+26	Easy Aerial SAMS
+27	MQ-9 Reaper
+28	Autel Robotics Dual 640T V3
+29	Easy Aerial SAMS
+30	Kespry 2S
+31	Easy Aerial SAMS
+32	Easy Aerial SAMS
+33	MD4-3000
+34	DJI Mavic 3T
+35	Kespry 2S
+36	Autel Robotics Dual 640T V3
+37	MQ-9 Reaper
+38	Autel Robotics Dual 640T V3
+39	DJI M30T
+40	Autel Robotics Dual 640T V3
+41	MD4-3000
+42	Autel Robotics Dual 640T V3
+43	MD4-3000
+44	DJI Mavic 3T
+45	MD4-3000
+46	MD4-3000
+47	Autel Robotics Dual 640T V3
+48	Easy Aerial SAMS
+49	DJI Mavic 3T
+50	MQ-9 Reaper
+51	MD4-3000
+52	MD4-3000
+53	RQ-4 Global Hawk
+54	DJI Mavic 3T
+55	RQ-4 Global Hawk
+56	MD4-3000
+57	Easy Aerial SAMS
+58	RQ-4 Global Hawk
+59	RQ-4 Global Hawk
+60	MQ-9 Reaper
+61	Parrot Anafi USA
+62	MD4-3000
+63	Autel Robotics Dual 640T V3
+64	Parrot Anafi USA
+65	DJI M30T
+66	Parrot Anafi USA
+67	Autel Robotics Dual 640T V3
+68	Parrot Anafi USA
+69	MQ-9 Reaper
+70	RQ-4 Global Hawk
+71	DJI Mavic 3T
+72	DJI M30T
+73	RQ-4 Global Hawk
+74	Parrot Anafi USA
+75	DJI Mavic 3T
+76	Easy Aerial SAMS
+77	RQ-4 Global Hawk
+78	DJI Mavic 3T
+79	MQ-9 Reaper
+80	RQ-4 Global Hawk
+81	DJI M30T
+82	DJI M30T
+83	DJI M30T
+84	Autel Robotics Dual 640T V3
+85	MQ-9 Reaper
+86	Parrot Anafi USA
+87	Parrot Anafi USA
+88	RQ-4 Global Hawk
+89	Easy Aerial SAMS
+90	Easy Aerial SAMS
+91	Parrot Anafi USA
+92	MD4-3000
+93	MD4-3000
+94	RQ-4 Global Hawk
+95	RQ-4 Global Hawk
+96	Parrot Anafi USA
+97	Autel Robotics Dual 640T V3
+98	MD4-3000
+99	Autel Robotics Dual 640T V3
+100	MQ-9 Reaper
+101	DJI M30T
+102	RQ-4 Global Hawk
+103	MD4-3000
+104	Parrot Anafi USA
+105	DJI Mavic 3T
+106	Autel Robotics Dual 640T V3
+107	RQ-4 Global Hawk
+108	DJI M30T
+109	MD4-3000
+110	Parrot Anafi USA
+111	MQ-9 Reaper
+112	Parrot Anafi USA
+113	RQ-4 Global Hawk
+114	Easy Aerial SAMS
+115	MD4-3000
+116	Parrot Anafi USA
+117	DJI Mavic 3T
+118	RQ-4 Global Hawk
+119	MD4-3000

@@ -1,0 +1,266 @@
+id	number	cameraModel
+1	1	20.1-megapixel Sony Exmor R CMOS
+2	1	50MB Teledyne camera
+2	2	50MB Teledyne camera
+2	3	50MB Teledyne camera
+2	4	50MB Teledyne camera
+3	1	MTS-B IR camera
+3	2	MTS-B color/monochrome daylight TV camera
+3	3	MTS-B image-intensified TV camera
+4	1	L2D-20c aerial camera
+5	1	50MB Teledyne camera
+5	2	50MB Teledyne camera
+5	3	50MB Teledyne camera
+5	4	50MB Teledyne camera
+6	1	20.1-megapixel Sony Exmor R CMOS
+7	1	Dual 640T visible camera
+8	1	MTS-B IR camera
+8	2	MTS-B color/monochrome daylight TV camera
+8	3	MTS-B image-intensified TV camera
+9	1	Dual 640T visible camera
+9	2	Dual 640T thermal camera
+10	1	50MB Teledyne camera
+10	2	50MB Teledyne camera
+10	3	50MB Teledyne camera
+10	4	50MB Teledyne camera
+11	1	4/3 CMOS Hasselblad camera
+12	1	Dual 640T visible camera
+14	1	50MB Teledyne camera
+14	2	50MB Teledyne camera
+14	3	50MB Teledyne camera
+14	4	50MB Teledyne camera
+15	1	MTS-B IR camera
+15	2	MTS-B color/monochrome daylight TV camera
+15	3	MTS-B image-intensified TV camera
+15	4	MTS-B laser designator camera
+15	5	MTS-B laser illuminator camera
+16	1	50MB Teledyne camera
+16	2	50MB Teledyne camera
+16	3	50MB Teledyne camera
+16	4	50MB Teledyne camera
+17	1	L2D-20c aerial camera
+18	1	50MB Teledyne camera
+18	2	50MB Teledyne camera
+18	3	50MB Teledyne camera
+18	4	50MB Teledyne camera
+19	1	Dual 640T visible camera
+19	2	Dual 640T thermal camera
+20	1	20.1-megapixel Sony Exmor R CMOS
+22	1	20.1-megapixel Sony Exmor R CMOS
+23	1	Dual 640T visible camera
+24	1	L2D-20c aerial camera
+25	1	20.1-megapixel Sony Exmor R CMOS
+26	1	50MB Teledyne camera
+26	2	50MB Teledyne camera
+26	3	50MB Teledyne camera
+26	4	50MB Teledyne camera
+27	1	MTS-B IR camera
+27	2	MTS-B color/monochrome daylight TV camera
+27	3	MTS-B image-intensified TV camera
+27	4	MTS-B laser designator camera
+27	5	MTS-B laser illuminator camera
+28	1	Dual 640T visible camera
+28	2	Dual 640T thermal camera
+29	1	50MB Teledyne camera
+29	2	50MB Teledyne camera
+29	3	50MB Teledyne camera
+29	4	50MB Teledyne camera
+30	1	20.1-megapixel Sony Exmor R CMOS
+31	1	50MB Teledyne camera
+31	2	50MB Teledyne camera
+31	3	50MB Teledyne camera
+31	4	50MB Teledyne camera
+32	1	50MB Teledyne camera
+32	2	50MB Teledyne camera
+32	3	50MB Teledyne camera
+32	4	50MB Teledyne camera
+34	1	L2D-20c aerial camera
+35	1	20.1-megapixel Sony Exmor R CMOS
+36	1	Dual 640T visible camera
+37	1	MTS-B IR camera
+37	2	MTS-B color/monochrome daylight TV camera
+37	3	MTS-B image-intensified TV camera
+37	4	MTS-B laser designator camera
+37	5	MTS-B laser illuminator camera
+38	1	Dual 640T visible camera
+38	2	Dual 640T thermal camera
+39	1	4/3 CMOS Hasselblad camera
+40	1	Dual 640T visible camera
+41	1	42.4MP Sony RX1R-II camera
+43	1	42.4MP Sony RX1R-II camera
+44	1	L2D-20c aerial camera
+45	1	42.4MP Sony RX1R-II camera
+46	1	42.4MP Sony RX1R-II camera
+47	1	Dual 640T visible camera
+48	1	50MB Teledyne camera
+48	2	50MB Teledyne camera
+48	3	50MB Teledyne camera
+48	4	50MB Teledyne camera
+49	1	L2D-20c aerial camera
+50	1	MTS-B IR camera
+50	2	MTS-B color/monochrome daylight TV camera
+50	3	MTS-B image-intensified TV camera
+50	4	MTS-B laser designator camera
+50	5	MTS-B laser illuminator camera
+51	1	42.4MP Sony RX1R-II camera
+52	1	42.4MP Sony RX1R-II camera
+53	1	EO digital camera
+53	2	IR sensor camera
+53	3	GMTI camera
+53	4	Synthetic aperture radar sensor camera
+54	1	L2D-20c aerial camera
+55	1	EO digital camera
+55	2	IR sensor camera
+55	3	GMTI camera
+55	4	Synthetic aperture radar sensor camera
+56	1	42.4MP Sony RX1R-II camera
+57	1	50MB Teledyne camera
+57	2	50MB Teledyne camera
+57	3	50MB Teledyne camera
+57	4	50MB Teledyne camera
+58	1	EO digital camera
+58	2	IR sensor camera
+58	3	GMTI camera
+58	4	Synthetic aperture radar sensor camera
+59	1	EO digital camera
+59	2	IR sensor camera
+59	3	GMTI camera
+59	4	Synthetic aperture radar sensor camera
+60	1	MTS-B IR camera
+60	2	MTS-B color/monochrome daylight TV camera
+60	3	MTS-B image-intensified TV camera
+60	4	MTS-B laser designator camera
+60	5	MTS-B laser illuminator camera
+61	1	Sony optical camera
+61	2	Flir Boson IR sensor camera
+62	1	42.4MP Sony RX1R-II camera
+63	1	Dual 640T visible camera
+64	1	Sony optical camera
+64	2	Flir Boson IR sensor camera
+65	1	4/3 CMOS Hasselblad camera
+66	1	Sony optical camera
+66	2	Flir Boson IR sensor camera
+68	1	Sony optical camera
+68	2	Flir Boson IR sensor camera
+69	1	MTS-B IR camera
+69	2	MTS-B color/monochrome daylight TV camera
+69	3	MTS-B image-intensified TV camera
+69	4	MTS-B laser designator camera
+69	5	MTS-B laser illuminator camera
+70	1	EO digital camera
+70	2	IR sensor camera
+70	3	GMTI camera
+70	4	Synthetic aperture radar sensor camera
+71	1	L2D-20c aerial camera
+72	1	4/3 CMOS Hasselblad camera
+73	1	EO digital camera
+73	2	IR sensor camera
+73	3	GMTI camera
+73	4	Synthetic aperture radar sensor camera
+74	1	Sony optical camera
+74	2	Flir Boson IR sensor camera
+75	1	L2D-20c aerial camera
+76	1	50MB Teledyne camera
+76	2	50MB Teledyne camera
+76	3	50MB Teledyne camera
+76	4	50MB Teledyne camera
+77	1	EO digital camera
+77	2	IR sensor camera
+77	3	GMTI camera
+77	4	Synthetic aperture radar sensor camera
+78	1	L2D-20c aerial camera
+79	1	MTS-B IR camera
+79	2	MTS-B color/monochrome daylight TV camera
+79	3	MTS-B image-intensified TV camera
+79	4	MTS-B laser designator camera
+79	5	MTS-B laser illuminator camera
+80	1	EO digital camera
+80	2	IR sensor camera
+80	3	GMTI camera
+80	4	Synthetic aperture radar sensor camera
+81	1	4/3 CMOS Hasselblad camera
+84	1	Dual 640T visible camera
+84	2	Dual 640T thermal camera
+85	1	MTS-B IR camera
+85	2	MTS-B color/monochrome daylight TV camera
+85	3	MTS-B image-intensified TV camera
+85	4	MTS-B laser designator camera
+85	5	MTS-B laser illuminator camera
+86	1	Sony optical camera
+86	2	Flir Boson IR sensor camera
+87	1	Sony optical camera
+87	2	Flir Boson IR sensor camera
+88	1	EO digital camera
+88	2	IR sensor camera
+88	3	GMTI camera
+88	4	Synthetic aperture radar sensor camera
+89	1	50MB Teledyne camera
+89	2	50MB Teledyne camera
+89	3	50MB Teledyne camera
+89	4	50MB Teledyne camera
+90	1	50MB Teledyne camera
+90	2	50MB Teledyne camera
+90	3	50MB Teledyne camera
+90	4	50MB Teledyne camera
+91	1	Sony optical camera
+91	2	Flir Boson IR sensor camera
+92	1	42.4MP Sony RX1R-II camera
+93	1	42.4MP Sony RX1R-II camera
+94	1	EO digital camera
+94	2	IR sensor camera
+94	3	GMTI camera
+94	4	Synthetic aperture radar sensor camera
+95	1	EO digital camera
+95	2	IR sensor camera
+95	3	GMTI camera
+95	4	Synthetic aperture radar sensor camera
+96	1	Sony optical camera
+96	2	Flir Boson IR sensor camera
+97	1	Dual 640T visible camera
+98	1	42.4MP Sony RX1R-II camera
+99	1	Dual 640T visible camera
+99	2	Dual 640T thermal camera
+100	1	MTS-B IR camera
+100	2	MTS-B color/monochrome daylight TV camera
+100	3	MTS-B image-intensified TV camera
+100	4	MTS-B laser designator camera
+100	5	MTS-B laser illuminator camera
+102	1	EO digital camera
+102	2	IR sensor camera
+102	3	GMTI camera
+102	4	Synthetic aperture radar sensor camera
+103	1	42.4MP Sony RX1R-II camera
+104	1	Sony optical camera
+104	2	Flir Boson IR sensor camera
+105	1	L2D-20c aerial camera
+106	1	Dual 640T visible camera
+107	1	EO digital camera
+107	2	IR sensor camera
+107	3	GMTI camera
+107	4	Synthetic aperture radar sensor camera
+108	1	4/3 CMOS Hasselblad camera
+109	1	42.4MP Sony RX1R-II camera
+110	1	Sony optical camera
+110	2	Flir Boson IR sensor camera
+111	1	MTS-B IR camera
+111	2	MTS-B color/monochrome daylight TV camera
+111	3	MTS-B image-intensified TV camera
+111	4	MTS-B laser designator camera
+111	5	MTS-B laser illuminator camera
+112	1	Sony optical camera
+113	1	EO digital camera
+113	2	IR sensor camera
+113	3	GMTI camera
+113	4	Synthetic aperture radar sensor camera
+114	1	50MB Teledyne camera
+114	2	50MB Teledyne camera
+114	3	50MB Teledyne camera
+114	4	50MB Teledyne camera
+115	1	42.4MP Sony RX1R-II camera
+116	1	Sony optical camera
+117	1	L2D-20c aerial camera
+118	1	EO digital camera
+118	2	IR sensor camera
+118	3	GMTI camera
+118	4	Synthetic aperture radar sensor camera
+119	1	42.4MP Sony RX1R-II camera

@@ -1,0 +1,42 @@
+poi1	poi2	description
+2	12	current co-worker
+2	23	current co-worker
+4	23	former business associate
+4	31	classmate at secondary school
+4	38	former business associate
+4	60	former business associate
+4	68	former business associate
+6	8	classmate at secondary school
+6	13	classmate at secondary school
+6	18	classmate at secondary school
+6	64	mother
+8	13	classmate at secondary school
+8	18	classmate at secondary school
+9	32	brother
+9	43	father
+9	69	classmate at secondary school
+9	72	classmate at secondary school
+12	23	current co-worker
+13	18	classmate at secondary school
+13	61	mother
+21	48	father
+23	38	former business associate
+23	43	classmate at secondary school
+23	54	former business associate
+23	68	former business associate
+29	31	current co-worker
+29	38	current co-worker
+31	38	current co-worker
+32	43	father
+36	49	current co-worker
+36	61	current co-worker
+36	75	current co-worker
+38	54	former business associate
+38	67	former business associate
+49	61	current co-worker
+49	75	current co-worker
+51	53	current co-worker
+51	62	current co-worker
+53	62	current co-worker
+61	75	current co-worker
+69	72	classmate at secondary school

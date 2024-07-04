@@ -1,0 +1,23 @@
+serialno	model	status	isIP68
+12640	UVW234	non-responsive	1
+12704	UVW234	functional	1
+12746	UVW234	functional	1
+13587	ABC321	under repair	0
+19341	EFG654	EFG654	1
+20212	MX1132	EFG654	1
+22318	PQR987	non-responsive	0
+22412	MN7891	functional	0
+23122	PQR987	unknown	1
+23412	TMX1132	EFG654	1
+26063	EFG654	unknown	0
+27071	EFG654	functional	0
+29387	MX1132	under repair	0
+34123	LMN456	functional	1
+34561	ABC321	functional	1
+36789	EFG654	functional	1
+72345	LMN456	functional	1
+72879	LMN456	functional	1
+78615	TMX1132	functional	1
+82376	LMN456	under repair	1
+87621	TMX1132	functional	1
+97621	TMX1132	functional	1
